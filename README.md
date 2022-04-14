@@ -43,9 +43,9 @@ to the time of training and the memory they occupied during training.</p>
 <h2>Methodology</h2>
 
 
-<img src="https://photos.app.goo.gl/uTUCwcFNshzuSdA2A" alt="Methodology" alt="Methodology" width="867" height="680">
+<img src="https://user-images.githubusercontent.com/42371862/163312391-02c56786-9d9c-4da4-a6c6-2643e89a5bf3.png" alt="Methodology" alt="Methodology" width="867" height="680">
 
 </body>
 </html>
-![image](https://user-images.githubusercontent.com/42371862/163312391-02c56786-9d9c-4da4-a6c6-2643e89a5bf3.png)
+
 
