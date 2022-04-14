@@ -7,9 +7,8 @@
 </head>
 <body>
 
-<h1>Feature Extraxction and Classification of Retina Diseases from OCT Images</h1>
-<h2>Diagnosis of three Retina disorders from OCT images using
-Deep Learning and Machine Learning techniques</h2>
+<h2>Feature Extraxction and Classification of Retina Diseases from OCT Images</h2>
+  
 <h3><b> Description of the project</b></h3>
 
 <p>This project is about the classification of three Retina diseases
