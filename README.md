@@ -47,3 +47,5 @@ to the time of training and the memory they occupied during training.</p>
 
 </body>
 </html>
+![image](https://user-images.githubusercontent.com/42371862/163312391-02c56786-9d9c-4da4-a6c6-2643e89a5bf3.png)
+
