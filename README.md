@@ -1,4 +1,4 @@
-# Ryerson-cind860
+# Retina Diseases Diagnosis : Using Deep Learning and Machine Learning Techniques
 
 <!DOCTYPE html>
 <html>
@@ -43,7 +43,7 @@ to the time of training and the memory they occupied during training.</p>
 <h2>Methodology</h2>
 
 
-<img src="Methodology1.jpg" alt="Methodology" width="867" height="680">
+<img src="https://photos.app.goo.gl/uTUCwcFNshzuSdA2A" alt="Methodology" alt="Methodology" width="867" height="680">
 
 </body>
 </html>
