@@ -7,7 +7,7 @@
 </head>
 <body>
 
-<h1>Retina Diseases Diagnosis:</h1>
+<h1>Feature Extraxction and Classification of Retina Diseases from OCT Images</h1>
 <h2>Diagnosis of three Retina disorders from OCT images using
 Deep Learning and Machine Learning techniques</h2>
 <h3><b> Description of the project</b></h3>
